@@ -1,0 +1,53 @@
+body {
+background:#FFFBF3;
+margin:80px;
+}
+ a{
+font-size:18px;
+background:#DAE7E8;
+text-decoration:none;
+color:#A93840;
+}
+ a:link {
+color:#682228;
+}
+a:hover{
+text-decoration:underline;
+background:##FFDFE4;
+font-size:19px;
+}
+ol div{
+background:#FFF1F3;
+width:90%;
+margin:20px;
+padding:30px;
+border:3px solid #90242C;
+}
+header, div .encabezado{
+background:#FFF1F3;
+width:100%;
+height:170px;
+margin:0px;
+padding:10px;
+border:3px solid #90242C;
+}
+ h2, div .intro{
+background:#FDE8E9;
+width:90%;
+height:50px;
+margin:0px;
+padding:10px;
+color:#7D272E;
+
+}
+ h3, {
+background:#DDB3B6;
+width:90%;
+height:20px;
+margin:15px;
+padding:10px;
+color:#950616;
+}
+
+
+ 
